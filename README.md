@@ -1,6 +1,6 @@
 # payplus
-Mobile app team
-Android testing
-iOS testing
-Web application testing
+Mobile app team -
+Android testing -
+iOS testing -
+Web application testing.
 
